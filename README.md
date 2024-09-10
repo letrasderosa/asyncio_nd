@@ -1,5 +1,5 @@
-# asyncio_nd
-Learning Asyncio 
+asyncio_nd
+# Learning Asyncio 
 <https://www.youtube.com/watch?v=h-EFkclgCc8>
 
 В продолжение беседы о конкурентости и параллельности в Python, пришла пора посмотреть на модный молодежный asyncio
